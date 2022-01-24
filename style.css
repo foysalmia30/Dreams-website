@@ -1,0 +1,63 @@
+body{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Sedgwick Ave', cursive;
+    margin: 0%;
+    
+}
+.blog-one{
+    display: flex;
+   
+    background-image: url(img/pexels-philip-ackermann-1666021.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 5%;
+}
+.haf-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.haf-width img{
+    width: 100%;
+}
+.text-center{
+    color: white;
+}
+.gray{
+    color: gray;
+}
+.my-house{
+    font-size: 40px;
+}
+/**** blog-tow */
+
+.display-flex{
+    display: flex;
+}
+.haf-gril{
+    width: 60%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5px;
+}
+.haf-gril img{
+    width: 100%;
+}
+.my-gr{
+    text-align: center;
+}
+.gf{
+    text-align: center;
+    font-size: 30px;
+}
+
+.blog-three{
+    display: flex;
+}
+footer{
+    text-align: center;
+    color: gray;
+    margin-top: 5%;
+}
